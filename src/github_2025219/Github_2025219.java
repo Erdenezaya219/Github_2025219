@@ -15,6 +15,9 @@ public class Github_2025219 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+       System.out.println("Erdenezaya Erdenebulgan 2025219");
+        
     }
     
 }
